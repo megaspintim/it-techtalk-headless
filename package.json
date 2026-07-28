@@ -1,0 +1,22 @@
+{
+  "name": "it-techtalk-headless",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "rss-parser": "^3.13.0",
+    "fuse.js": "^7.0.0",
+    "@vercel/analytics": "^1.4.1"
+  },
+  "allowScripts": {
+    "sharp@0.34.5": true
+  }
+}
