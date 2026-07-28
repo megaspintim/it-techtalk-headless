@@ -37,8 +37,8 @@ export default function SiteFooter() {
           <div>
             <h4>Legal</h4>
             <ul>
-              <li><Link href="#">Terms and conditions</Link></li>
-              <li><Link href="#">Privacy policy</Link></li>
+              <li><Link href="/terms-and-conditions">Terms and conditions</Link></li>
+              <li><Link href="/privacy-policy">Privacy policy</Link></li>
             </ul>
           </div>
         </div>
